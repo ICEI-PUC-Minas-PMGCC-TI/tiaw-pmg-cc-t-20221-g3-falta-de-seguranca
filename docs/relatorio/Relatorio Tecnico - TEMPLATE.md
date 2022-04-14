@@ -1,21 +1,18 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Security Virtual Classes
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação - PUC-MG
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Augusto Guerra de Lima
+Samuel Correia Pedrosa
+Vinícius Vasconcelos Vargas
+Wanderson Teixeira dos Reis Junior
 
 # Estrutura do Documento
 
