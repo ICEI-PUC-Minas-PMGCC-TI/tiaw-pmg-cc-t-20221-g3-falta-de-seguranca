@@ -9,10 +9,10 @@ Ciência da Computação - PUC-MG
 
 ## Participantes
 
-Augusto Guerra de Lima
-Samuel Correia Pedrosa
-Vinícius Vasconcelos Vargas
-Wanderson Teixeira dos Reis Junior
+● Augusto Guerra de Lima
+● Samuel Correia Pedrosa
+● Vinícius Vasconcelos Vargas
+● Wanderson Teixeira dos Reis Junior
 
 # Estrutura do Documento
 
