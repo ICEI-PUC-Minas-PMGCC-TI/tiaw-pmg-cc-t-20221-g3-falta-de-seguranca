@@ -79,10 +79,6 @@ Os objetivos específicos são trazer todas essas informações em módulos, org
 O público-alvo do projeto, inicialmente era bastante abrangente, no entanto ele foi filtrado para chegarmos à um público-alvo seleto: As pessoas fundamentais para o SecurityVC são as que já têm um contato frequente com a internet, e constantemente utilizam seus dados online, essas pessoas no geral prezam por sua segurança e sabem que seus dados muitas vezes podem não estar tão seguros.
 Em segundo lugar, as pessoas importantes para o projeto, são as que de fato, não têm noção sobre como utilizar as redes a seu favor, não entendem nada de segurança, acreditamos que os módulos do software darão à elas uma base solida para começarem a entender segurança, nesse ponto estão pessoas mais velhas que não estão muito familiarizadas com a tecnologia, ou pais de crianças que por muitas vezes deixam seus aparelhos nas mãos dos pequenos, tornando o dispositivo um alvo fácil sob qualquer clique descuidado.
 Por fim, as pessoas influentes são as que usam assiduamente o mundo online e querem entender mais de segurança, acreditamos que o forum será um local ideal para esses usuários.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
