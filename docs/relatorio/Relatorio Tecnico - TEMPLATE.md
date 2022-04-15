@@ -60,20 +60,7 @@ Inicialmente, o objetivo geral é arquitetar um software com caráter informativ
 Os objetivos específicos são trazer todas essas informações em módulos, organizados em níveis, para que os usuários tenham uma base sólida em segurança e possam evoluir constantemente. Ademais, outro objetivo específico está em criar uma rede de usuários, para discutir entre si e potencializar o caráter informativo. Outrossim, um objetivo futuro está na implementação de mecanismos de segurança no software.
 
 ## Justificativa
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Acreditamos que o tema segurança digital é de grande importância na modernidade, visto que as pessoas confiam cada vez mais informações à intenet, mas não se protegem devidamente, deixando esse conteúdo exposto e criando uma falsa sensação de segurança. Há ainda uma grande gama de pessoas que não se preocupam tanto com a segurança na Internet e que não sabem o valor da informação que oferecem. Além disso, alguns membros do projeto pretendem seguir com a área de segurança cada vez mais.
 
 ## Público-Alvo
 O público-alvo do projeto, inicialmente era bastante abrangente, no entanto ele foi filtrado para chegarmos à um público-alvo seleto: As pessoas fundamentais para o SecurityVC são as que já têm um contato frequente com a internet, e constantemente utilizam seus dados online, essas pessoas no geral prezam por sua segurança e sabem que seus dados muitas vezes podem não estar tão seguros.
