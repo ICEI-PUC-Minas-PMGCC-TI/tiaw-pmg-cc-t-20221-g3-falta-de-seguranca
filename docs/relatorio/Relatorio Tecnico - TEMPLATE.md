@@ -69,12 +69,7 @@ Em segundo lugar, as pessoas importantes para o projeto, são as que de fato, n�
 Por fim, as pessoas influentes são as que usam assiduamente o mundo online e querem entender mais de segurança, acreditamos que o forum será um local ideal para esses usuários.
  
 # Especificações do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Para identificar as Personas do projeto foram realizadas entrevistas, presenciais para ter um maior contato com o público e online para fazer estatísticas melhores e traçar o perfil dos usuários com maior facilidade.
 
 ## Personas e Mapas de Empatia
 
@@ -236,14 +231,11 @@ Durante o desenvolvimento do projeto, algumas metodologias foram aplicadas para 
 Portanto, a metodologia ágil foi muito importante para finalizar o primeiro sprint, onde foram feitos o design thinking (outra metodologia) e os wireframes do projeto.
 
 ## Divisão de Papéis
+A divisão de papéis no primeiro sprint não foi absolutamente rigorosa, já que houve atuação mutua dos membros em todas as etapas como o design thinking, as entrevistas, a construção dos primeiros wireframes e a estilização. No geral a divisão do grupo seguiu dessa forma:
+Todos os membros - Entrevistas presenciais e estilização de wireframes
+Augusto - Criação do formulário online, estatísticas, criação da logo, documentação parcial do projeto, desing thinking e estilização dos wireframes;
+Gabriel - Entrevistas presenciais, estruração dos wireframes via Figma, concepção do estilo do software, estilização mobile e desktop;
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
 ## Ferramentas
