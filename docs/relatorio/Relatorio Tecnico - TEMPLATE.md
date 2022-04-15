@@ -53,36 +53,11 @@ Ciência da Computação - PUC-MG
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A facilidade que a web trouxe para todas as pessoas gera uma forte oposição com a realidade da segurança de seus dados pessoais, atualmente fazer compras pela internet, manter contato online com seu círculo social, curtir posts de assuntos que gostamos, anda de modo intrínseco com a divulgação de dados bancários, exposição de assuntos íntimos e o processo de arquitetar um perfil de usuário, representando metódicamente cada um dos membros conectados. Observando isso, pode-se concluir que os dados de pessoas nunca estiveram circulando por todos os cantos, e nunca estiveram tão inseguros, nunca foi tão fácil que eles caissem na mão de mentes desocupadas. Conclusão essa que foi potencializada, pela pesquisa realizada pelo grupo, que concluiu que a maioria das pessoas pensam estar mais seguras do que realmente estão.
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Inicialmente, o objetivo geral é arquitetar um software com caráter informativo, para deixar os usuários mais equipados, com conhecimentos mais robustos, permitindo que eles mesmos façam um policiamento de como usam a rede e mantenham suas informações preservadas.
+Os objetivos específicos são trazer todas essas informações em módulos, organizados em níveis, para que os usuários tenham uma base sólida em segurança e possam evoluir constantemente. Ademais, outro objetivo específico está em criar uma rede de usuários, para discutir entre si e potencializar o caráter informativo. Outrossim, um objetivo futuro está na implementação de mecanismos de segurança no software.
 
 ## Justificativa
 
