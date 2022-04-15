@@ -233,8 +233,12 @@ Portanto, a metodologia ágil foi muito importante para finalizar o primeiro spr
 ## Divisão de Papéis
 A divisão de papéis no primeiro sprint não foi absolutamente rigorosa, já que houve atuação mutua dos membros em todas as etapas como o design thinking, as entrevistas, a construção dos primeiros wireframes e a estilização. No geral a divisão do grupo seguiu dessa forma:
 Todos os membros - Entrevistas presenciais e estilização de wireframes
-Augusto - Criação do formulário online, estatísticas, criação da logo, documentação parcial do projeto, desing thinking e estilização dos wireframes;
-Gabriel - Entrevistas presenciais, estruração dos wireframes via Figma, concepção do estilo do software, estilização mobile e desktop;
+● Augusto - Criação do formulário online, estatísticas, criação da logo, documentação parcial do projeto, desing thinking e estilização dos wireframes;
+● Eduardo - Entrevistas, desing thinking;
+● Gabriel - Entrevistas presenciais, desing thinking, estruração dos wireframes via Figma, concepção do estilo do software, estilização mobile e desktop;
+● Samuel - Concepção inicial do projeto, entrevistas, rascunho de wireframes, documentação parcial do projeto, desing thinking e estilização dos wireframes;
+● Vinícius - Entrevistas, rascunho de wireframes, estruturação dos wireframes via Figma, estilização dos wireframes;
+● Wanderson - Entrevistas presenciais, criação do nome do projeto, design thinking, rascunho e estilização dos wireframes, slides para apresentação do pitch.
 
 
 
