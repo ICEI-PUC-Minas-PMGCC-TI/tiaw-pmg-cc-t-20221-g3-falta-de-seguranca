@@ -231,24 +231,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Metodologia
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Durante o desenvolvimento do projeto, algumas metodologias foram aplicadas para otimizar o processo, sendo a primeira de todas, para idealizar o projeto, o brainwriting, onde todos colocaram ideias que eram cada vez mais melhoradas pelos membros do grupo. A segunda foi um processo de metodologia ágil, o scrum, onde o grupo dividiu em pequenas etapas o que seria feito, cada membro do grupo selecionou uma parte para ser responsável. Além disso, foram feitas reuniões diárias onde todos apresentavam o que foi feito e também para melhorar as criações.
+Portanto, a metodologia ágil foi muito importante para finalizar o primeiro sprint, onde foram feitos o design thinking (outra metodologia) e os wireframes do projeto.
 
 ## Divisão de Papéis
 
