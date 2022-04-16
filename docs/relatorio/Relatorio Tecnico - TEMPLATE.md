@@ -345,6 +345,7 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 > **Exemplo do diagrama de Arquitetura**:
 > 
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Persona-1](PMGCC-T - G3 - Falta de segurança com dados pessoais.jpg)
 
 
 # Avaliação da Aplicação
