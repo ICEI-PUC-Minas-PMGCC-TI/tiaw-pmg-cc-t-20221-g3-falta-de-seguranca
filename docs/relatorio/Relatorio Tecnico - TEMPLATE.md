@@ -72,6 +72,8 @@ Por fim, as pessoas influentes são as que usam assiduamente o mundo online e qu
 Para identificar as Personas do projeto foram realizadas entrevistas, presenciais para ter um maior contato com o público e online para fazer estatísticas melhores e traçar o perfil dos usuários com maior facilidade.
 
 ## Personas e Mapas de Empatia
+As Três personas projetadas foram baseadas nos públicos alvos, fundamentais, importantes e influenciadores. Dessa forma traçamos os seguintes perfis, personas e mapas de empatia:
+
 ![PMGCC-T - G3 - Falta de segurança com dados pessoais](https://user-images.githubusercontent.com/103451503/163690906-a3ab9ebd-5fad-497c-876f-043a9024d101.jpg)
 ![PMGCC-T - G3 - Falta de segurança com dados pessoais (1)](https://user-images.githubusercontent.com/103451503/163690927-19fffbc3-711e-4aa3-b672-16c3399b1d51.jpg)
 ![PMGCC-T - G3 - Falta de segurança com dados pessoais (2)](https://user-images.githubusercontent.com/103451503/163690948-304dd653-e7d1-4e99-aee5-4128ea4d7aa6.jpg)
