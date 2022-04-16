@@ -92,10 +92,9 @@ Para identificar as Personas do projeto foram realizadas entrevistas, presenciai
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
+> ![PMGCC-T - G3 - Falta de segurança com dados pessoais (1)](https://user-images.githubusercontent.com/103451503/163689466-d543207c-99e5-491f-9bac-a6d711d12753.jpg)
+
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
