@@ -72,30 +72,10 @@ Por fim, as pessoas influentes são as que usam assiduamente o mundo online e qu
 Para identificar as Personas do projeto foram realizadas entrevistas, presenciais para ter um maior contato com o público e online para fazer estatísticas melhores e traçar o perfil dos usuários com maior facilidade.
 
 ## Personas e Mapas de Empatia
+![PMGCC-T - G3 - Falta de segurança com dados pessoais](https://user-images.githubusercontent.com/103451503/163690906-a3ab9ebd-5fad-497c-876f-043a9024d101.jpg)
+![PMGCC-T - G3 - Falta de segurança com dados pessoais (1)](https://user-images.githubusercontent.com/103451503/163690927-19fffbc3-711e-4aa3-b672-16c3399b1d51.jpg)
+![PMGCC-T - G3 - Falta de segurança com dados pessoais (2)](https://user-images.githubusercontent.com/103451503/163690948-304dd653-e7d1-4e99-aee5-4128ea4d7aa6.jpg)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> 
-> ![PMGCC-T - G3 - Falta de segurança com dados pessoais (1)](https://user-images.githubusercontent.com/103451503/163689466-d543207c-99e5-491f-9bac-a6d711d12753.jpg)
-
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
