@@ -124,8 +124,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 No primeiro sprint foram criadas as primeira wireframes, tanto mobile quanto desktop, utilizamos o conceito de mobile first e além disso foi desenvolvido o user flow que será apresentado nessa parte:
 
 ## User Flow
-
-
+![userflow](https://user-images.githubusercontent.com/103451503/163727344-e1c850b3-d46e-4aac-a310-8bb403617a6e.png)
 
 ## Wireframes
 Wireframes Mobile:
