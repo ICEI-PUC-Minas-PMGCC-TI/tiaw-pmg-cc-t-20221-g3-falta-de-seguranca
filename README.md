@@ -7,7 +7,8 @@ A falta de informação ou acesso à segurança de dados é um problema que cami
 * Augusto Guerra de Lima
 * Eduardo Soares Castilho
 * Gabriel Méro de Omena
-* Nome completo do aluno 4
+* Samuel Correia Pedrosa
+* Vinícius Vasconcelos Vargas
 * Wanderson Teixeira dos Reis Junior
 
 ## Professores responsáveis
