@@ -170,13 +170,6 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 |Wireframe                    | Figma| https://www.figma.com/team_invite/redeem/P4MapzLJTu09rqinnRcIOS | 
 
 ## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -194,15 +187,8 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+
+
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
