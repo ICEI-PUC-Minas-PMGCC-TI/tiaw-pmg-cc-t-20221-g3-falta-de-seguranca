@@ -176,6 +176,8 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 |-----------------------------|------|---------------------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB3aP5E=/                       | 
 |Wireframe                    | Figma| https://www.figma.com/team_invite/redeem/P4MapzLJTu09rqinnRcIOS | 
+|Apresentação                 | Canva| https://www.canva.com/design/DAE94m1Gfco/31HtabSIQlP8AOHyAjtbqQ/edit | 
+
 
 ## Controle de Versão
 > A ferramenta de controle de versão adotada no projeto foi o
