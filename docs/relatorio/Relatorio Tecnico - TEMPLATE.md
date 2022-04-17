@@ -91,7 +91,7 @@ Aqui estão as histórias de usuário, ou seja, quem, o que e porquê:
 |Rogério             | Tirar as suas duvidas sobre segurança | Rogério irá melhorar seu conhecimento em segurança |
 |Rogério             | Aprender segurança em sites | Deixar seus sites mais seguros |
 |Anderson            | Conseguir uma base sólida em segurança    | Anderson vai sair do zero e poder navegar com consciência|
-|Anderson            | Suporte técnico                 | Ajuda o Rogério a não cometer erros|
+|Anderson            | Suporte técnico                 | Ajuda o Anderson a não cometer erros|
 |Administradores     | Monitoramento de fórum             | Poder avaliar a veracidade das informações   |
 ## Requisitos
 
@@ -180,6 +180,13 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 
 
 ## Controle de Versão
+
+As versões serão atualizadas da seguinte maneira:
+Alpha - Versão Inicial, atualização de bugs e recursos visuais simples
+1.2 - Atualização com novas features e mais otimizadas
+2.0 - Atualização parcialmente estável e mais otimizada
+3.0 - Versão Final, atualização final, testada e estável (master)
+
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -196,6 +203,7 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
+> - `root`: uma modificação na base do sistema
 
 
 
