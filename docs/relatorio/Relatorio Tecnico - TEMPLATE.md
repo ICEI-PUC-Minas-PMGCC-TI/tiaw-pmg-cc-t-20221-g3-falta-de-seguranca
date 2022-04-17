@@ -143,23 +143,26 @@ No primeiro sprint foram criadas as primeira wireframes, tanto mobile quanto des
 
 
 ## Wireframes
+Wireframes Mobile:
+![Wireframe (2) pdf-page-0001](https://user-images.githubusercontent.com/103451503/163726714-f244be85-b91d-4c11-b6f3-7dccb3d7831f.jpg)
+![Wireframe (2) pdf-page-0003](https://user-images.githubusercontent.com/103451503/163726722-a4fcf6e0-df23-4e7b-bb1c-97400722c358.jpg)
+![Wireframe (2) pdf-page-0004](https://user-images.githubusercontent.com/103451503/163726727-1c910301-5339-4995-b794-b3b36c79ffd4.jpg)
+![Wireframe (2) pdf-page-0007](https://user-images.githubusercontent.com/103451503/163726730-7cde82a4-d4ee-42f6-819d-a500c1f13268.jpg)
+![Wireframe (2) pdf-page-0008](https://user-images.githubusercontent.com/103451503/163726731-9e4a397e-7b5f-4eab-ba39-958e3c695740.jpg)
+![Wireframe (2) pdf-page-0011](https://user-images.githubusercontent.com/103451503/163726733-9cef42cb-bb33-499a-9798-4af2555deffb.jpg)
+![Wireframe (2) pdf-page-0013](https://user-images.githubusercontent.com/103451503/163726736-00f67e4b-4431-4de1-9e4d-05e2dfcbc223.jpg)
+![Wireframe (2) pdf-page-0014](https://user-images.githubusercontent.com/103451503/163726739-40fad135-dd74-4abf-915b-7dd565b5e811.jpg)
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Wireframes Desktop:
+![Wireframe (2) pdf-page-0002](https://user-images.githubusercontent.com/103451503/163726761-496c0441-cda3-4471-a091-2db2e8d2e4e7.jpg)
+![Wireframe (2) pdf-page-0005](https://user-images.githubusercontent.com/103451503/163726765-692217e9-c631-4c7a-9eb8-a0d989c0d02f.jpg)
+![Wireframe (2) pdf-page-0006](https://user-images.githubusercontent.com/103451503/163726768-06f42d70-303a-4bce-9a7c-a8931d0a4355.jpg)
+![Wireframe (2) pdf-page-0009](https://user-images.githubusercontent.com/103451503/163726772-56fd5905-3fb8-45b5-8b29-3ee9a3ef9b96.jpg)
+![Wireframe (2) pdf-page-0010](https://user-images.githubusercontent.com/103451503/163726774-d1316cb6-08bd-404d-9477-6eb42eb0b3ef.jpg)
+![Wireframe (2) pdf-page-0012](https://user-images.githubusercontent.com/103451503/163726780-369ef011-d738-4ccd-a5fe-2cc0ab78645f.jpg)
+![Wireframe (2) pdf-page-0015](https://user-images.githubusercontent.com/103451503/163726784-dfd2d524-17e7-4d9e-b442-ee58eeb93ff0.jpg)
+![Wireframe (2) pdf-page-0016](https://user-images.githubusercontent.com/103451503/163726785-3dd14353-0100-4322-b183-a1cf3b347532.jpg)
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
