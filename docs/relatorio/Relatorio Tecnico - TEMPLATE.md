@@ -10,6 +10,7 @@ Ciência da Computação - PUC-MG
 ## Participantes
 
 ● Augusto Guerra de Lima
+● Eduardo Soares Castilho
 ● Gabriel Méro de Omena
 ● Samuel Correia Pedrosa
 ● Vinícius Vasconcelos Vargas
