@@ -88,7 +88,7 @@ Aqui estão as histórias de usuário, ou seja, quem, o que e porquê:
 |--------------------|------------------------------------|----------------------------------------------|
 |Usuário do Sistema  | Módulos de aprendizagem            | Aprender de forma gradual                    |
 |Usuário do Sistema  | Fórum para discussão               | Permitir os usuários a difundir aprendizados |
-|Administradores     | Monitoramento de fórum             | Poder avaliar a veracidade de informações    |
+|Administradores     | Monitoramento de fórum             | Poder avaliar a veracidade das informações   |
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -207,38 +207,10 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-| Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+| Ambiente  | Plataforma | Link de Acesso |
+|-----------------------------|------|---------------------------|
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB3aP5E=/                       | 
+|Wireframe                    | Figma| https://www.figma.com/team_invite/redeem/P4MapzLJTu09rqinnRcIOS | 
 
 ## Controle de Versão
 
