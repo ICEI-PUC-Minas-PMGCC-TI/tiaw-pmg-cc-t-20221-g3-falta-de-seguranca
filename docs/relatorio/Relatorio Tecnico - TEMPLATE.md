@@ -9,12 +9,12 @@ Ciência da Computação - PUC-MG
 
 ## Participantes
 
-● Augusto Guerra de Lima
-● Eduardo Soares Castilho
-● Gabriel Méro de Omena
-● Samuel Correia Pedrosa
-● Vinícius Vasconcelos Vargas
-● Wanderson Teixeira dos Reis Junior
+| Augusto Guerra de Lima
+| Eduardo Soares Castilho
+| Gabriel Méro de Omena
+| Samuel Correia Pedrosa
+| Vinícius Vasconcelos Vargas
+| Wanderson Teixeira dos Reis Junior
 
 # Estrutura do Documento
 
@@ -86,8 +86,12 @@ Aqui estão as histórias de usuário, ou seja, quem, o que e porquê:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                       |
 |--------------------|------------------------------------|----------------------------------------------|
-|Usuário do Sistema  | Módulos de aprendizagem            | Aprender de forma gradual                    |
-|Usuário do Sistema  | Fórum para discussão               | Permitir os usuários a difundir aprendizados |
+|Maria               | Aprender de forma gradual          | Fazer compras e navegar com mais segurança                 |
+|Maria               | Aprender sobre segurança em vendas online      | Poder comprar em sites e indicar sites de vendas online                 |
+|Rogério             | Tirar as suas duvidas sobre segurança | Rogério irá melhorar seu conhecimento em segurança |
+|Rogério             | Aprender segurança em sites | Deixar seus sites mais seguros |
+|Anderson            | Conseguir uma base sólida em segurança    | Anderson vai sair do zero e poder navegar com consciência|
+|Anderson            | Suporte técnico                 | Ajuda o Rogério a não cometer erros|
 |Administradores     | Monitoramento de fórum             | Poder avaliar a veracidade das informações   |
 ## Requisitos
 
@@ -97,9 +101,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir o Usuário acessar os vídeos e arquivos anexados | ALTA | 
-|RF-002| Permirtir o usuário usufruir do fórum colocando mensagens  | ALTA |
-|RF-003| Permitir que os usuários respondam o forum e tenham mensagens analisadas  | ALTA |
+|RF-001| Módulos iniciais com base sólida | ALTA | 
+|RF-002| Módulos diversos sobre segurança | ALTA |
+|RF-002| Discussões no fórum | MEDIA |
+|RF-002| Suporte técnico nos fóruns | MEDIA |
+|RF-005| Módulos específicos sobre assuntos específicos  | BAIXO |
+|RF-006| Mecanismo de segurança  | BAIXO |
 
 
 ### Requisitos não Funcionais
@@ -154,12 +161,12 @@ Portanto, a metodologia ágil foi muito importante para finalizar o primeiro spr
 ## Divisão de Papéis
 A divisão de papéis no primeiro sprint não foi absolutamente rigorosa, já que houve atuação mutua dos membros em todas as etapas como o design thinking, as entrevistas, a construção dos primeiros wireframes e a estilização. No geral a divisão do grupo seguiu dessa forma:
 Todos os membros - Entrevistas presenciais e estilização de wireframes
-● Augusto - Criação do formulário online, estatísticas, criação da logo, documentação parcial do projeto, desing thinking e estilização dos wireframes;
-● Eduardo - Entrevistas, desing thinking;
-● Gabriel - Entrevistas presenciais, desing thinking, estruração dos wireframes via Figma, concepção do estilo do software, estilização mobile e desktop;
-● Samuel - Concepção inicial do projeto, entrevistas, rascunho de wireframes, documentação parcial do projeto, desing thinking e estilização dos wireframes;
-● Vinícius - Entrevistas, rascunho de wireframes, estruturação dos wireframes via Figma, estilização dos wireframes;
-● Wanderson - Entrevistas presenciais, criação do nome do projeto, design thinking, rascunho e estilização dos wireframes, slides para apresentação do pitch.
+| Augusto - Criação do formulário online, estatísticas, criação da logo, documentação parcial do projeto, desing thinking e estilização dos wireframes;
+| Eduardo - Entrevistas, desing thinking;
+| Gabriel - Entrevistas presenciais, desing thinking, estruração dos wireframes via Figma, concepção do estilo do software, estilização mobile e desktop;
+| Samuel - Concepção inicial do projeto, entrevistas, rascunho de wireframes, documentação parcial do projeto, desing thinking e estilização dos wireframes;
+| Vinícius - Entrevistas, rascunho de wireframes, estruturação dos wireframes via Figma, estilização dos wireframes;
+| Wanderson - Entrevistas presenciais, criação do nome do projeto, design thinking, rascunho e estilização dos wireframes, slides para apresentação do pitch.
 
 
 
