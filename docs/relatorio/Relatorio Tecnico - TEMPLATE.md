@@ -114,8 +114,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Sistema voltado ao mobile principalmente | ALTO |
+|RNF-002| Redirecionamento de dicas para sites seguros | ALTO |
 |RNF-003| Usuário deve conseguir baixar os arquivos anexados |  MÉDIA | 
-|RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
