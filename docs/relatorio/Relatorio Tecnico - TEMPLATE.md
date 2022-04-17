@@ -184,15 +184,14 @@ Todos os membros - Entrevistas presenciais e estilização de wireframes
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
 > 
-> O projeto segue a seguinte convenção para o nome de branchs:
+>As tags utilizadas para as atualizações seguem essa convenção:
 > 
 > - `master`: versão estável já testada do software
 > - `unstable`: versão já testada do software, porém instável
 > - `testing`: versão em testes do software
 > - `dev`: versão de desenvolvimento do software
 > 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
+> O projeto adotará as seguintes tags para atividades:
 > 
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
