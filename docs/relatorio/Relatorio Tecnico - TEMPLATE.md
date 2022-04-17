@@ -125,44 +125,27 @@ No primeiro sprint foram criadas as primeira wireframes, tanto mobile quanto des
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
 Wireframes Mobile:
-![Wireframe (2) pdf-page-0001](https://user-images.githubusercontent.com/103451503/163726714-f244be85-b91d-4c11-b6f3-7dccb3d7831f.jpg)
-![Wireframe (2) pdf-page-0003](https://user-images.githubusercontent.com/103451503/163726722-a4fcf6e0-df23-4e7b-bb1c-97400722c358.jpg)
-![Wireframe (2) pdf-page-0004](https://user-images.githubusercontent.com/103451503/163726727-1c910301-5339-4995-b794-b3b36c79ffd4.jpg)
-![Wireframe (2) pdf-page-0007](https://user-images.githubusercontent.com/103451503/163726730-7cde82a4-d4ee-42f6-819d-a500c1f13268.jpg)
-![Wireframe (2) pdf-page-0008](https://user-images.githubusercontent.com/103451503/163726731-9e4a397e-7b5f-4eab-ba39-958e3c695740.jpg)
-![Wireframe (2) pdf-page-0011](https://user-images.githubusercontent.com/103451503/163726733-9cef42cb-bb33-499a-9798-4af2555deffb.jpg)
-![Wireframe (2) pdf-page-0013](https://user-images.githubusercontent.com/103451503/163726736-00f67e4b-4431-4de1-9e4d-05e2dfcbc223.jpg)
-![Wireframe (2) pdf-page-0014](https://user-images.githubusercontent.com/103451503/163726739-40fad135-dd74-4abf-915b-7dd565b5e811.jpg)
+![pngs](https://user-images.githubusercontent.com/103451503/163727050-68d6ed76-f1e2-4876-b328-dc0c5d52a3fe.png)
+![Cadastro_Mobile](https://user-images.githubusercontent.com/103451503/163727065-83c6e7bc-a269-4103-a6c2-1e4159ba692e.png)
+![Fórum_Mobile](https://user-images.githubusercontent.com/103451503/163727067-f6c43713-3262-433f-ba62-4aa38c5eca0f.png)
+![Login_Mobile](https://user-images.githubusercontent.com/103451503/163727080-54e1c3be-da1e-4e95-8fb8-40a040574f3e.png)
+![Módulos_Mobile](https://user-images.githubusercontent.com/103451503/163727085-c9d9479a-154a-4059-91fa-82234255acff.png)
+![Módulos-2_Mobile](https://user-images.githubusercontent.com/103451503/163727090-f48359c2-59d6-4142-9e45-7f239e87d1ca.png)
+![Perfil_Mobile](https://user-images.githubusercontent.com/103451503/163727094-bbd46d09-9a97-4ba7-80c5-a234b26c9a97.png)
+![Perfil-alt_Mobile](https://user-images.githubusercontent.com/103451503/163727095-42e3f425-37bc-44f6-b506-4855f17be300.png)
 
 Wireframes Desktop:
-![Wireframe (2) pdf-page-0002](https://user-images.githubusercontent.com/103451503/163726761-496c0441-cda3-4471-a091-2db2e8d2e4e7.jpg)
-![Wireframe (2) pdf-page-0005](https://user-images.githubusercontent.com/103451503/163726765-692217e9-c631-4c7a-9eb8-a0d989c0d02f.jpg)
-![Wireframe (2) pdf-page-0006](https://user-images.githubusercontent.com/103451503/163726768-06f42d70-303a-4bce-9a7c-a8931d0a4355.jpg)
-![Wireframe (2) pdf-page-0009](https://user-images.githubusercontent.com/103451503/163726772-56fd5905-3fb8-45b5-8b29-3ee9a3ef9b96.jpg)
-![Wireframe (2) pdf-page-0010](https://user-images.githubusercontent.com/103451503/163726774-d1316cb6-08bd-404d-9477-6eb42eb0b3ef.jpg)
-![Wireframe (2) pdf-page-0012](https://user-images.githubusercontent.com/103451503/163726780-369ef011-d738-4ccd-a5fe-2cc0ab78645f.jpg)
-![Wireframe (2) pdf-page-0015](https://user-images.githubusercontent.com/103451503/163726784-dfd2d524-17e7-4d9e-b442-ee58eeb93ff0.jpg)
-![Wireframe (2) pdf-page-0016](https://user-images.githubusercontent.com/103451503/163726785-3dd14353-0100-4322-b183-a1cf3b347532.jpg)
-
+![Cadastro_Desktop](https://user-images.githubusercontent.com/103451503/163727108-c922e3cd-139b-4338-9d16-c02b380e7631.png)
+![Fórum_Desktop](https://user-images.githubusercontent.com/103451503/163727112-3e33d8a2-92f5-4486-bf8b-087b8ace1465.png)
+![Home_Desktop](https://user-images.githubusercontent.com/103451503/163727114-b884e376-48a3-48b5-bbcc-8d725ad954af.png)
+![Módulos_Desktop](https://user-images.githubusercontent.com/103451503/163727115-7596d25b-5243-45f7-aa8a-d46c7379a507.png)
+![Módulos-2_Desktop](https://user-images.githubusercontent.com/103451503/163727118-3437fec0-814d-4667-81df-edb0ae6a2509.png)
+![Perfil_Desktop](https://user-images.githubusercontent.com/103451503/163727124-98662b24-a37a-4ea5-931f-f642f6096a26.png)
+![Perfil-alt_Desktop](https://user-images.githubusercontent.com/103451503/163727125-f259b8a7-1397-41d7-96d7-66f19ef7450a.png)
 
 
 # Metodologia
