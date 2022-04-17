@@ -5,7 +5,7 @@ A falta de informação ou acesso à segurança de dados é um problema que cami
 ## Alunos integrantes da equipe
 
 * Augusto Guerra de Lima
-* Nome completo do aluno 2
+* Eduardo Soares Castilho
 * Gabriel Méro de Omena
 * Nome completo do aluno 4
 * Wanderson Teixeira dos Reis Junior
