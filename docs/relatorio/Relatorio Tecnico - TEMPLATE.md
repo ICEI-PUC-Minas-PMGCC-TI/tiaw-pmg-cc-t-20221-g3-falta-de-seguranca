@@ -228,12 +228,12 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 ![arq](https://user-images.githubusercontent.com/103451503/177059018-78c74c48-a7f4-467e-b66b-477f390fac2a.jpg)
 
 # Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+|Cenário|Aplicação|
+|---------|-----|
+|Usuário acessa por dispositivo mobile|Aplicação totalmente responsiva|
+|Usuário entra na aplicação para aprender| Módulos com conteúdos sobre segurança|
+|Usuário entra na aplicação para comunicação no fórum| Atentido parcialmente|
+|Usuário deseja ver seu perfil| Página de perfil do usuário|
 
 ## Plano de Testes
 
