@@ -236,28 +236,13 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 |Usuário deseja ver seu perfil| Página de perfil do usuário|
 
 ## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Cenário|Grupo testado|Detalhes|Sucesso|
+|-------|-------------|--------|-------|
+|Mobile|Usuários com mais atividade em dispositivos mobile|Aplicação totalmente responsiva|SIM|
+|Aprendizado por módulos|Usuários iniciantes em segurança|Módulos com conteúdos sobre segurança|SIM|
+|Comunicação por fórum|Usuários intermediários e avançados|Fórum de discussões e dúvidas sobre segurança|NÃO|
+|Visualização de Perfil|Todos|Usuário pode visualizar seus dados|SIM|
+|Suporte técnico|Todos|Página de suporte técnico para dúvidas|NÃO|
 
 ## Registros de Testes
 
