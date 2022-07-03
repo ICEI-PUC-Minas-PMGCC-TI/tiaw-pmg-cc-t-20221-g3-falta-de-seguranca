@@ -226,15 +226,7 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-> ![Persona-1](PMGCC-T - G3 - Falta de segurança com dados pessoais.jpg)
+![arq](https://user-images.githubusercontent.com/103451503/163727108-c922e3cd-139b-4338-9d16-c02b380e7631.png)
 
 
 # Avaliação da Aplicação
