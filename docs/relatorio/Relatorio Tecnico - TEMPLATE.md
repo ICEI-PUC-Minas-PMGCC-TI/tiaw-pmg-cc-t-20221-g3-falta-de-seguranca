@@ -214,14 +214,14 @@ Alpha - Versão Inicial, atualização de bugs e recursos visuais simples
 O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuários a se protegerem durante a navegação na web. Concordantemente, o software contempla uma página de módulos capaz de fornecer informações de forma gradual e uma página de fórum capaz de estabelecer a comunicação entre os usuários.
 
 ## Tecnologias Utilizadas
-|HTML - Para estruturação das páginas
-|CSS -  Para a personalização das páginas
-|Java-Script - Para a dinâmica das páginas 
-|Bootstrapt - Para facilitar a estruturação das páginas
-|Visual Studio Code - Para desenvolver o projeto com as linguagens
-|Github - Para repositório de códigos e versões do projeto final
-|Heroku - Para a hospedagem do projeto
-|Discord - Para reuniões remotas
+| HTML - Para estruturação das páginas
+| CSS -  Para a personalização das páginas
+| Java-Script - Para a dinâmica das páginas 
+| Bootstrapt - Para facilitar a estruturação das páginas
+| Visual Studio Code - Para desenvolver o projeto com as linguagens
+| Github - Para repositório de códigos e versões do projeto final
+| Heroku - Para a hospedagem do projeto
+| Discord - Para reuniões remotas
 
 
 ## Arquitetura da solução
