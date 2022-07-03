@@ -214,21 +214,15 @@ Alpha - Versão Inicial, atualização de bugs e recursos visuais simples
 O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuários a se protegerem durante a navegação na web. Concordantemente, o software contempla uma página de módulos capaz de fornecer informações de forma gradual e uma página de fórum capaz de estabelecer a comunicação entre os usuários.
 
 ## Tecnologias Utilizadas
+|HTML - Para estruturação das páginas
+|CSS -  Para a personalização das páginas
+|Java-Script - Para a dinâmica das páginas 
+|Bootstrapt - Para facilitar a estruturação das páginas
+|Visual Studio Code - Para desenvolver o projeto com as linguagens
+|Github - Para repositório de códigos e versões do projeto final
+|Heroku - Para a hospedagem do projeto
+|Discord - Para reuniões remotas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
