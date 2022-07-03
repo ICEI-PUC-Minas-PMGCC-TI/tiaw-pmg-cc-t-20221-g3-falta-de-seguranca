@@ -253,5 +253,6 @@ Por fim, na iteração que se segue, é necessário otimizar a relação e dinam
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> -  
+> -
+> -
