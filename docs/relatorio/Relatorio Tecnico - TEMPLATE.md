@@ -226,7 +226,7 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 
 ## Arquitetura da solução
 
-![arq](https://user-images.githubusercontent.com/103451503/163727108-c922e3cd-139b-4338-9d16-c02b380e7631.png)
+![arq]([https://user-images.githubusercontent.com/103451503/163727108-c922e3cd-139b-4338-9d16-c02b380e7631.png](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20221-g3-falta-de-seguranca/blob/master/docs/relatorio/images/arq.jpg))
 
 
 # Avaliação da Aplicação
