@@ -245,14 +245,8 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 |Suporte técnico|Todos|Página de suporte técnico para dúvidas|NÃO|
 
 ## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+A principal parte da solução estava no conteúdos dos módulos, que foi adicionado e está funcional, além disso é possível adicionar mais conteúdos no JSON criado, portanto essa é uma das metas da próxima iteração. O processo de cadastro, login e visualização de perfil foram completados, para tornar melhor esses eventos é desejado inserir mais opções de personalização do perfil. A página de fórum da aplicação atendeu parcialmente os requisitos, devido ao fato de apresentar uma estruração fiel a dos wireframes e até conter uma alocação de dados, mas o desenvolvimento de um métodos responsável por inserir novas discussões ainda está pendente.
+Por fim, na iteração que se segue, é necessário otimizar a relação e dinamica entre as páginas, objetivando uma experiência mais orgânica aos usuários.
 
 # Referências
 
