@@ -250,11 +250,6 @@ Por fim, na iteração que se segue, é necessário otimizar a relação e dinam
 
 # Referências
 
-> - BOOTSTRAP. Bootstrap.The most popular HTML,CSS and JS library in the world.Disponível em: https://getbootstrap.com/. Acesso em: 16 de abril de 2022.
-> -
-> -
-> -
+> - BOOTSTRAP. Bootstrap.The most popular HTML,CSS and JS library in the world.Disponível em: https://getbootstrap.com/. Acesso em: 16 de abril de 2022;
 > - FLANAGAM, David, JavaScript: The Definitive Guide .Edição 2. O'Reilly & Associates. 1997; 
-> - KALLE HALLDEN, How To Become Invisible Online.Disponível em: https://www.youtube.com/watch?v=S4E4yAktjug, Acesso em: 23 de junho de 2022
-> -
-> -
+> - KALLE HALLDEN, How To Become Invisible Online.Disponível em: https://www.youtube.com/watch?v=S4E4yAktjug, Acesso em: 23 de junho de 2022.
