@@ -249,10 +249,12 @@ A principal parte da solução estava no conteúdos dos módulos, que foi adicio
 Por fim, na iteração que se segue, é necessário otimizar a relação e dinamica entre as páginas, objetivando uma experiência mais orgânica aos usuários.
 
 # Referências
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> -  
+> - KALLE HALLDEN, How To Become Invisible Online. Disponível em https://www.youtube.com/watch?v=S4E4yAktjug, acesso em 23 de junho de 2022
+> - 
+> -
+> -
+> -
+> -
+> -
 > -
 > -
