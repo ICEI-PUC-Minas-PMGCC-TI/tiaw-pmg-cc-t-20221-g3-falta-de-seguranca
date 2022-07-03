@@ -249,9 +249,6 @@ A principal parte da solução estava no conteúdos dos módulos, que foi adicio
 Por fim, na iteração que se segue, é necessário otimizar a relação e dinamica entre as páginas, objetivando uma experiência mais orgânica aos usuários.
 
 # Referências
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
 > 
