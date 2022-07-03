@@ -225,9 +225,7 @@ O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuár
 
 
 ## Arquitetura da solução
-
-![arq](https://user-images.githubusercontent.com/103451503)
-
+![arq](https://user-images.githubusercontent.com/103451503/177059018-78c74c48-a7f4-467e-b66b-477f390fac2a.jpg)
 
 # Avaliação da Aplicação
 
