@@ -211,8 +211,7 @@ Alpha - Versão Inicial, atualização de bugs e recursos visuais simples
 
 
 # Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto de solução foi desenvolver um site de ensino capaz de ensinar usuários a se protegerem durante a navegação na web. Concordantemente, o software contempla uma página de módulos capaz de fornecer informações de forma gradual e uma página de fórum capaz de estabelecer a comunicação entre os usuários.
 
 ## Tecnologias Utilizadas
 
